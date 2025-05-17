@@ -1,4 +1,3 @@
-```markdown
 # P01-Server-Rust  
 
 **Estudiantes:** Darío Espinoza Aguilar y Jose Pablo Agüero Mora  
@@ -112,4 +111,3 @@ Para desarrollo con recarga en caliente:
 cargo install cargo-watch
 cargo watch -x run
 ```  
-```
